@@ -1,1 +1,1 @@
-created a new repo and learnt about init command 
+created a new localrepo2 and learnt about init command 
