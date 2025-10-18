@@ -1,0 +1,1 @@
+created a new repo and learnt about init command 
